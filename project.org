@@ -1,0 +1,27 @@
+* libasm
+** Assembly required
+** Compiling with NASM
+** TODO Makefile (same of =ft_lib=)
+** TODO Tests
+** =ft_strlen=
+** =ft_strcpy=
+** =ft_strcmp=
+** =ft_write=
+** =ft_read=
+** =ft_strdup=
+** =ft_calloc=
+* libasm_bonus
+This should not be done (only if really *really* /really/ want it)
+*** All the _list_ ones uses this:
+#+begin_src C
+typedef struct s_list
+{
+	void *data;
+	struct s_list *next;
+}
+#+end_src
+** =Ft_atoi_base=
+** =ft_list_push_front=
+** =ft_list_sort=
+** =ft_list_remove_if=
+** =ft_simd_memchr=
