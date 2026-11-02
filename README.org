@@ -1,15 +1,24 @@
 * libasm
 ** Assembly required
 ** Compiling with NASM
-** TODO Makefile (same of =ft_lib=)
-** TODO Tests
-** =ft_strlen=
-** =ft_strcpy=
-** =ft_strcmp=
-** =ft_write=
-** =ft_read=
-** =ft_strdup=
-** =ft_calloc=
+** DONE Makefile (same of =ft_lib=)
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE Tests
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_strlen=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_strcpy=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_strcmp=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_write=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_read=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_strdup=
+CLOSED: [2026-11-02 Mon 02:54]
+** DONE =ft_calloc=
+CLOSED: [2026-11-02 Mon 02:54]
 * libasm_bonus
 This should not be done (only if really *really* /really/ want it)
 *** All the _list_ ones uses this:
@@ -20,8 +29,8 @@ typedef struct s_list
 	struct s_list *next;
 }
 #+end_src
-** =Ft_atoi_base=
-** =ft_list_push_front=
-** =ft_list_sort=
-** =ft_list_remove_if=
-** =ft_simd_memchr=
+** TODO =ft_atoi_base=
+** TODO =ft_list_push_front=
+** TODO =ft_list_sort=
+** TODO =ft_list_remove_if=
+** TODO =ft_simd_memchr=
